@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DesktopButton.qml</file>
+        <file>FormatForm.qml</file>
+        <file>SizeForm.qml</file>
+        <file>NameForm.qml</file>
+        <file>MainButton.qml</file>
+    </qresource>
+</RCC>
