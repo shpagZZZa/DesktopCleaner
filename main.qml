@@ -154,7 +154,7 @@ Window {
         id: desktopPathDialog
         title: "Подтвердить"
         Text{
-//            text: "Вы уверены, что ваша папка  " + folderDialog.folder.toString().substring(8) + "?"
+            text: "Вы уверены, что ваша папка  " + folderDialog.folder.toString().substring(8) + "?"
         }
         standardButtons: StandardButton.No | StandardButton.Yes
 
