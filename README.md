@@ -11,3 +11,5 @@
 
 Сборка:
 Необходимы MinGW и Qt 5.14. Для запуска необходимо открыть и собрать проект в среде Qt Creator.
+
+Ссылка на видео с демонстрацией приложения: https://drive.google.com/file/d/1qMLgY-HKMOGkhuosxUz7UmGqZ06NStyG/view?usp=sharing
