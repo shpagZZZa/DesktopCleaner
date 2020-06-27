@@ -10,7 +10,7 @@
 
 DesktopCleaner::DesktopCleaner(QObject *parent) : QObject(parent)
 {
-    this->setDesktopPath("C:/Users/Александр/Desktop/DesktopBackup");
+    this->setDesktopPath("C:/Users/User/Desktop/");
     this->setMode(0);
 }
 
